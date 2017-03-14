@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/esia",
+    "name": "chongwu/esiasocialiteprovider",
     "description": "Esia OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
